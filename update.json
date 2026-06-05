@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "build_number": 1,
+  "download_url": "https://github.com/Meet-Jasoliya/one-click-clear-cache-releases/releases/download/v1.0.0/app-release.apk",
+  "release_notes": "• Initial release of One Click Clear Cache\n• Smart cache detection with app tagging\n• Accessibility-based automated cache clearing\n• Custom accent color & dark mode theming\n• Home screen widget support\n• Cache size threshold filtering",
+  "mandatory": false
+}
