@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "build_number": 1,
+  "version": "1.0.1",
+  "build_number": 2,
   "download_url": "https://github.com/Meet-Jasoliya/one-click-clear-cache-releases/raw/main/app-release.apk",
-  "release_notes": "• Initial release of One Click Clear Cache\n• Smart cache detection with app tagging (High/Medium/Low/Empty/System)\n• Accessibility-based automated cache clearing\n• Custom accent color & dark mode theming\n• Home screen widget support\n• Cache size threshold filtering",
+  "release_notes": "• Full-screen animated progress overlay while clearing\n• Rotating dashed ring, pulsing arc, segmented dots, shimmer bar\n• Live app name + X/Y counter updates as each app is cleared\n• Auto-closes all Settings screens when clearing finishes\n• No more lingering Settings screens — app returns instantly",
   "mandatory": false
 }
