@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "build_number": 2,
+  "version": "1.0.2",
+  "build_number": 3,
   "download_url": "https://github.com/Meet-Jasoliya/one-click-clear-cache-releases/raw/main/app-release.apk",
-  "release_notes": "• Full-screen animated progress overlay while clearing\n• Rotating dashed ring, pulsing arc, segmented dots, shimmer bar\n• Live app name + X/Y counter updates as each app is cleared\n• Auto-closes all Settings screens when clearing finishes\n• No more lingering Settings screens — app returns instantly",
+  "release_notes": "• Full-screen animated progress overlay while clearing\n• Rotating dashed ring, pulsing arc, segmented dots, shimmer bar\n• Live app name + X/Y counter updates as each app is cleared\n• Auto-closes all Settings screens when clearing finishes\n• Fixed update dialog not showing on app launch",
   "mandatory": false
 }
